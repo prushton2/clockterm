@@ -11,6 +11,8 @@ or:
 
 This proejct was created with a venv, however it currently does not use it.
 
+## Config
+config can be found in `./dist/config.py`
 
 ## Contributing
 
